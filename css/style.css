@@ -989,7 +989,7 @@ background-position-y: 70px;
     padding-bottom: 30px;
 }
 .card-blog {
-    box-shadow: 0 8px 8px -10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
     padding: 10px;
 }
 
@@ -1004,7 +1004,10 @@ background-position-y: 70px;
 
 .card-blog .card-body {
     position: relative;
-    
+}
+
+.card-blog .card-footer {
+    padding-top: 10px;
 }
   
 .card-blog .card-category-box {
@@ -1037,7 +1040,7 @@ margin-bottom: 0;
 
 .card-blog .card-title {
 font-size: 1.3rem;
-margin-top: .6rem;
+padding-top: 1rem;
 }
 
 .card-blog .card-description {
