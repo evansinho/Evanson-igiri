@@ -3,4 +3,4 @@ My personal portfolio site
 
 ### Live Link
 
-(Live link)[https://evansinho.github.io/Evanson-igiri/]
+[live link](https://evansinho.github.io/Evanson-igiri/)
