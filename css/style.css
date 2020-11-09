@@ -231,6 +231,10 @@ p {
 /* Top_content
 ---------------------------------*/
 
+.img-responsive {
+    padding-top: 40px;
+}
+
 .top_cont_outer {
     position: relative;
     height: 750px;
@@ -564,7 +568,8 @@ background-position-y: 70px;
 .about-us .points{
 	position: relative;
 	list-style-type: none;
-	padding: 5px 0 5px 30px;
+  padding: 5px 0 5px 30px;
+  font-size: 15px;
 }
 
 .about-us .points:before{
