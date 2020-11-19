@@ -180,12 +180,12 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #ED5441;
+    color: #004F9E;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #ED5441;
+    color: #004F9E;
     background-color: transparent;
 }
 
@@ -202,8 +202,12 @@ p {
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #ED5441;
+    color: #004F9E;
     background-color: transparent;
+}
+
+.scroll-link {
+    color: #004F9E;
 }
 
 .borderLeft {
@@ -563,6 +567,9 @@ background-position-y: 70px;
 }
 .port-1-desc p {
     color: #4F4F4F;
+}
+.port-1-desc p a {
+    color: #004F9E;
 }
 .about-us p{
 	/*font-size: 0.9375em;*/
