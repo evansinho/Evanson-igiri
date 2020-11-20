@@ -170,7 +170,7 @@ p {
 .navStyle ul li a {
     display: block;
     font-size: 14px;
-    color: #222222;
+    color: #303030;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 600;
@@ -207,7 +207,7 @@ p {
 }
 
 .scroll-link {
-    color: #004F9E;
+    /* color: #004F9E; */
 }
 
 .borderLeft {
